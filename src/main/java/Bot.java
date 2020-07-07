@@ -80,6 +80,7 @@ public class Bot extends TelegramLongPollingBot {
 
         return answers[random];
     }
+    //deploy
 }
 
 
